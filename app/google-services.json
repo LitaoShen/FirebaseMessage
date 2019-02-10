@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262059147469",
+    "firebase_url": "https://fir-message-7298e.firebaseio.com",
+    "project_id": "fir-message-7298e",
+    "storage_bucket": "fir-message-7298e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262059147469:android:101fea45481da30b",
+        "android_client_info": {
+          "package_name": "com.example.litaos.firebasemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262059147469-3i82c0lf393v268tino8r6bbflt2ff9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.litaos.firebasemessage",
+            "certificate_hash": "7100e8232a83ac99919d8442a9595defd3c73887"
+          }
+        },
+        {
+          "client_id": "262059147469-tjsfgvsi20fqbssro67c7ljc3ghd0b2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDP0L7L2dmIqQLkPja26XdEMW4smePPH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262059147469-tjsfgvsi20fqbssro67c7ljc3ghd0b2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
